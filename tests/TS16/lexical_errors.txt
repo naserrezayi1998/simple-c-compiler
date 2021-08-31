@@ -1,0 +1,2 @@
+#9 : Lexical Error! 'cd!' rejected, reason: invalid input.
+#14 : Lexical Error! '@' rejected, reason: invalid input.
